@@ -222,6 +222,7 @@ class Packages {
                     externalLibraryList.contains("opencore-amr") &&
                     externalLibraryList.contains("opus") &&
                     externalLibraryList.contains("shine") &&
+                    externalLibraryList.contains("mp3lame") &&
                     externalLibraryList.contains("soxr") &&
                     externalLibraryList.contains("speex") &&
                     externalLibraryList.contains("twolame") &&
